@@ -1,0 +1,44 @@
+{
+  "id": "3766857",
+  "name": "dzdp",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "22447449",
+      "name": "会员等级",
+      "font_class": "huiyuandengji",
+      "unicode": "e774",
+      "unicode_decimal": 59252
+    },
+    {
+      "icon_id": "680979",
+      "name": "个人2",
+      "font_class": "geren2",
+      "unicode": "e71f",
+      "unicode_decimal": 59167
+    },
+    {
+      "icon_id": "1727441",
+      "name": "213收藏",
+      "font_class": "shoucang",
+      "unicode": "e8c2",
+      "unicode_decimal": 59586
+    },
+    {
+      "icon_id": "15559665",
+      "name": "大众点评",
+      "font_class": "shejiaotubiao-07",
+      "unicode": "e641",
+      "unicode_decimal": 58945
+    },
+    {
+      "icon_id": "16322467",
+      "name": "位置",
+      "font_class": "weizhi",
+      "unicode": "e6de",
+      "unicode_decimal": 59102
+    }
+  ]
+}
